@@ -1,12 +1,12 @@
 #Maintainer: Xyne <ac xunilhcra enyx, backwards>
 pkgname=python3-xcgf
 pkgver=2017.3
-pkgrel=3
+pkgrel=4
 pkgdesc='Xyne'"'"'s common generic functions, for internal use.'
 arch=(any)
 license=(GPL)
 url="https://xyne.archlinux.ca/projects/python3-xcgf"
-depends=(python3)
+depends=(python)
 source=(
   https://xyne.archlinux.ca/projects/python3-xcgf/src/python3-xcgf-2017.3.tar.xz
   https://xyne.archlinux.ca/projects/python3-xcgf/src/python3-xcgf-2017.3.tar.xz.sig
